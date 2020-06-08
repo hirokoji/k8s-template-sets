@@ -21,5 +21,5 @@ $ docker run -p 8080:8080 -it hirokoji/web-hello
 2.This web server return hostname
 ```shell script
 $ curl localhost:8080 
-Hello, I am hostname
+Hello, This is hostname
 ```
